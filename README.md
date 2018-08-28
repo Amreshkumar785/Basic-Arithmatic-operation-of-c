@@ -1,6 +1,6 @@
 # Basic-Arithmatic-operation-of-c
 
-cpy the code in the editor and save it.
+copy the code in the editor and save it.
 
 Run the program
 
